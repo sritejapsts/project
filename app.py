@@ -1,6 +1,6 @@
 For springboot 3-tier project will this architecture plan work[Internet]
     |
-    | (HTTPS/HTTP - Port 443/80)
+    | (HTTPS/HTTP - Port 444/80)
     V
 [Public Facing Frontend Load Balancer (ALB)]
     | (HTTP/HTTPS - e.g., Port 80/443 to Load Balancer)
